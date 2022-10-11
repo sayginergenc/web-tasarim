@@ -1,0 +1,34 @@
+
+    basla
+
+        s1,s2,ort,vize,final
+
+
+            yaz "saygı gir",
+            oku s1
+            yaz "2.sayıyı gir""
+            oku s2
+            yaz vize % gir
+            oku vize
+            final=vize-%100
+            ort=vize*s1+final*s2 yada final tanımlama "%100-vize"
+            yaz"sonuc"=ort
+    eğer(ort>=50 ve final>=50)
+        yaz"tebrikler gectin"
+    degilse
+        yaz"seneye gel"
+    bitir 
+    basla
+    kilo, boy,beeden
+    yaz "kılonu gir"
+    oku kilo
+    yaz "cm olaraak boy yaz"
+    oku boy
+    beden=kılo/(boy*0.0001)
+    yaz"sonuc"+beden
+    eger(beden<=19)
+    yaz "zayıf"
+    değilse eger(beden>=19 ve beden<=24)
+    yaz "normal"
+    değilse
+    yaz"sısmansın ha"
