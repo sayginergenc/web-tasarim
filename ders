@@ -9,76 +9,60 @@
     <h1>Saygıner öz geçmiş</h1>
 <hr>
         <ul>
-            <li>Saygıner özgeçmiş</li>
-
-
-
-
-
-
-
-
-
-
-
-
-
-        </ul>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+            <li><h2>İletişim Bilgileri</h2>
+<hr>
+                <ol type="1">
+                    <li>Ad:Saygıner</li>
+                    <li>Soyad:Genç</li>
+                    <li>Telefon:05306816126</li>
+                    <li>Eposta:saygiinergenc@gmail.com</li>
+                </ol></li>    
+                <li><h2>Kişisel Bilgiler</h2>
+<hr>
+                <ol type="A">
+                    <li>Cinsiyet:Erkek</li>
+                    <li>Doğum Yeri:Ankara</li>
+                    <li>Doğum Tarihi:08/10/2002</li>
+                    <li>Medeni Drum:Bekar</li>
+                    <li>Ehliyet:Yok</li>
+                    <li>Askerlik:Muaf</li>
+                </ol></li>
+                <li><h2>Egitim Bilgileri</h2>
+<hr>                    
+                    <ol type="a">
+                        <li><h3>Lise</h3>
+                            <ol type="I">
+                                <li><h4>Meslek Lise</h4>
+                                    <ul><li>Merzifon sağlık lisesi</li></ul></li>
+                                <li><h4>Anadolu Lisesi</h4>
+                                    <ul><li>Abide Hatun Anadolu Lisesi</li></ul>
+                                    <ul><li>Özel Kırdar Bilgiören Köleji</li></ul>
+                                </li></ol></li>
+                        <li><h3>Üniversite</h3>
+                        <ol type="I">
+                            <li><h4>T.C. Kütahya Dumlupınar Üniversitesi</h4>
+                            <ol type="i">
+                                <li>Fakulte
+                                    <ul>Kütahya Teknik Bilimler Meslek Yüksekokulu</ul>
+                                </li>
+                                <li>Bölüm
+                                    <ul>Bilgisayar Programcılığı</ul>
+                                </li></ol></li></ol></li></ol>
+                    <li><h2>Yabancı Diller</h2>
+<hr>
+                    <ol type="1">
+                        <li>İngilizce</li>
+                    </ol></li>
+                    <li><h2>Bilgisayar Bilgileri</h2>
+<hr>
+                    <ul type="square">
+                        <li>Microsoft Excel</li>
+                        <li>Microsoft Word</li>
+                        <li>Microsoft PowerPoint</li>
+                        <li>Adobe Photoshop</li>
+                        <li>Adobe Illustrator</li>
+                        <li>Adobe Premiere Pro</li>
+                    </ul></li></li></ul>
     </body>
-
-
-
-
-    </head>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+</head>
 </html>
