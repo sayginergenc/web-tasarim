@@ -1,36 +1,81 @@
 <html>
     <head>
-        <title>2. ögretim</title>
-        <meta charset="uttf-8"  />
-        <meta name="keywords" content="dpü,kütahya,dumlupınar" />
-        <meta name="description" content="ilk sayfam " />
-        </head>
+        <meta charset="utf-8">
+        <title>3.Hafta</title>
+    </head>
+    <body>
+        <ol type="A"> 
+            <li> Balıkesir Spor </li>
+            <li> Galatasaray </li>
+            <li> Giresunspor </li>
+        </ol>
+        <ol type="a"> 
+            <li> Balıkesir Spor </li>
+            <li> Galatasaray </li>
+            <li> Giresunspor </li>
+        </ol>
+        <ol type="I"> 
+            <li> Balıkesir Spor </li>
+            <li> Galatasaray </li>
+            <li> Giresunspor </li>
+        </ol>
+        <ol type="i"> 
+            <li> Balıkesir Spor </li>
+            <li> Galatasaray </li>
+            <li> Giresunspor </li>
+        </ol>
+        <ol type="1" start="15" >    <!--start belirlenen sayıdan başlar-->
+            <li> Balıkesir Spor </li>
+            <li> Galatasaray </li>
+            <li> Giresunspor </li>
+        </ol>
+        <ol type="1" reversed >      <!-- reversed tersten başlar-->
+            <li> Balıkesir Spor </li>
+            <li> Galatasaray </li>
+            <li> Giresunspor </li>
+        </ol>
 
-<body>
-    merhaba dunya<br />
-kıs gelıyor ... 
-<p>kütahya dumlupınar</p>
-<p>kütahya tteknık </p>
-<h1>kütahya üni</h1>
-<h2>kütahya üni</h2>
-<h3>kütahya üni</h3>
-<h4>kütahya üni</h4>
-<h5>kütahya üni</h5>
-<h6>kütahya üni</h6>
-</body>
-<ol>
-<li>sa</li>
-<li>as</li>
-<li>ca</li>
-<li>asöşdjnaw</li>
-</ol>
-<ul>
-<li>sad</li>
-<li>sdaasca</li>
-</ul>
-<ol type="1" start="15">
-    <li>balııkesir</li>
-    <li>galatasaray</li>
-    <li>giresun spor</li>
-</ol>
+<!-- ol ul li yerlerine dikkat-->
+        <ul>
+            <li>Akademik Birimler
+              <ol type="A">
+                <li>Fakülteler</li>
+                <li>Meslek Yüksekokulları
+                  <ul>
+                    <li>Teknik Bilimler MYO
+                      <ol>
+                          <li>Bilgisayar Teknolojileri</li>
+                          <li>Elektrik ve Enerji</li>
+                      </ol>
+                    </li>
+                    <li>Sosyal Bilimler MYO</li>
+                  </ul>
+                </li>
+              </ol>
+            </li>
+            <li>İdari Birimler</li>
+        </ul>
+
+    <ul type="circle">              <!-- circle square disc none ul tipleri-->
+        <li>Akademik Birimler</li>
+        <li>İdari Birimler</li>
+    </ul>
+
+    <h1>Kütahya</h1>
+    <img src="https://media-cdn.tripadvisor.com/media/photo-s/0a/5b/0d/c5/kaleden-manzara.jpg" alt="Kütahya" />
+    <!--seçilen resmin bağlantısının sonundaki örn .jpg .png olmalı
+        alt (alternatif) görsel yüklenmez ise yazacak olan yazı
+        width ve height pixel cinsinden genişlik ve yükseklik ayarlanabilir eğer ikisinden birisini yazmassak otomatik en boy oranı ayarlar-->
+
+    <!-- KLASÖR ÜZERİNDEN RESİM ÇEKMEK
+        Aynı klasor= resim.jpg   ./resim.jp
+        Alt klasör= resimler/resim.jpg   ./resimler/resim.jpg
+        Üst klasör= ../resim.jpg -->
+
+    <h1>Balıkesir</h1>
+    <img src="balıkesir.jpeg" alt="balıkesir" />
+
+
+    </body>
+
 </html>

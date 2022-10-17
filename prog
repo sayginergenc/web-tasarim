@@ -32,3 +32,21 @@
     yaz "normal"
     değilse
     yaz"sısmansın ha"
+                                        DERS 2
+    BAŞLA
+        sayı,toplam=0,x
+sayac(x=1;`den "10a`kadar 1`er)
+yaz"x+ sayı gir"
+oku sayı
+toplam=toplam+sayı,
+sayacsonu
+yaz sonuc="+toplam"
+bitir
+BAŞLA
+    x,toplam=0
+    sayac(x=1`den "100a`a kadar 1`er")
+    toplam=toplam+x
+    sayacsonu
+    yaz"sonuc="+toplam
+    bitir
+    
